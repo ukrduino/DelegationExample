@@ -405,6 +405,7 @@
 				A5E1E39E1A25E74A00A06C3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5E1E39F1A25E74A00A06C3A /* Build configuration list for PBXNativeTarget "DelegationExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				A5E1E3A11A25E74A00A06C3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
